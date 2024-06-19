@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
     taskTitle: {
       fontSize: 20,
       color: '#000',
+      fontFamily: 'HindSiliguri_300Light',
     }
 });
 
